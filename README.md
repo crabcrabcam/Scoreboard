@@ -8,3 +8,6 @@ Install PIP3 with the same package manager.
 Install guizero with PIP. `pip3 install guizero`
 
 You can now run this app. 
+
+Go into the `Main.py` file and change the `aName` and `bName` variables to whatever team names you'd like.  
+You can also change the name of the window is you like. 
